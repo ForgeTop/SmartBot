@@ -1,5 +1,4 @@
 # SmartBot
-A smart bot for MineBlaze server survival modes with the ability to repeat player messages, responses to player joins and auto-translations
 
 Бот создан и работает на Node js, на библиотеке mineflayer.
 
@@ -24,4 +23,4 @@ mode=yota
 **mRepTranslate <en|de|fr|uk|off>** — авто-перевод для команды mRep\
 **joinResp <сообщение>** — авто-ответчик на заходы. {player} заменяется на ник игрока.
 
-Бот создан игроком **_DaTaPaCKeR_**
+Бот создан игроком ```_DaTaPaCKeR_```
