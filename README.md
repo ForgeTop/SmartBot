@@ -11,7 +11,7 @@ password=
 serverIp=mc.mineblaze.su
 mode=yota
 
-# epsilon yota delta sigma apha beta
+# epsilon yota delta sigma alpha beta
 # gamma omega hydra omicron
 ```
 
