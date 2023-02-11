@@ -1,0 +1,7 @@
+nickname=
+password=
+serverIp=mc.mineblaze.su
+mode=yota
+
+# epsilon yota delta sigma apha beta
+# gamma omega hydra omicron
