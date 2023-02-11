@@ -5,7 +5,8 @@
 
 Прежде чем запустить бота, нужно зайти в config.txt и
 поставить ник и пароль боту.
-```nickname=
+```
+nickname=
 password=
 serverIp=mc.mineblaze.su
 mode=yota
